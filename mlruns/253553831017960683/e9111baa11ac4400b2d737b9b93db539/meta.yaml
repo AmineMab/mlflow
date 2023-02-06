@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aboukhaled001/Documents/Projects/mlflow/mlruns/253553831017960683/e9111baa11ac4400b2d737b9b93db539/artifacts
+end_time: 1675681741361
+entry_point_name: ''
+experiment_id: '253553831017960683'
+lifecycle_stage: active
+run_id: e9111baa11ac4400b2d737b9b93db539
+run_name: suave-wolf-473
+run_uuid: e9111baa11ac4400b2d737b9b93db539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675681725430
+status: 3
+tags: []
+user_id: aboukhaled001

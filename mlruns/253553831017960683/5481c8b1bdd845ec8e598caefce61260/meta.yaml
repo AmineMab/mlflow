@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aboukhaled001/Documents/Projects/mlflow/mlruns/253553831017960683/5481c8b1bdd845ec8e598caefce61260/artifacts
+end_time: 1675682165993
+entry_point_name: ''
+experiment_id: '253553831017960683'
+lifecycle_stage: active
+run_id: 5481c8b1bdd845ec8e598caefce61260
+run_name: delicate-bass-56
+run_uuid: 5481c8b1bdd845ec8e598caefce61260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675682159473
+status: 3
+tags: []
+user_id: aboukhaled001

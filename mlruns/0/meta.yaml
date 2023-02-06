@@ -1,4 +1,6 @@
-artifact_location: file:///C:/Users/Ashutosh%20Tripathi/Documents/projects/mlflow/mlruns/0
+artifact_location: file:///c:/Users/aboukhaled001/Documents/Projects/mlflow/mlruns/0
+creation_time: 1675681724351
 experiment_id: '0'
+last_update_time: 1675681724351
 lifecycle_stage: active
 name: Default

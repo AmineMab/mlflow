@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/aboukhaled001/Documents/Projects/mlflow/mlruns/964644022510987431/bd6d3c75c99f4567970e05862407483e/artifacts
+end_time: 1675686897290
+entry_point_name: ''
+experiment_id: '964644022510987431'
+lifecycle_stage: active
+run_id: bd6d3c75c99f4567970e05862407483e
+run_name: iris_classifier_method-1
+run_uuid: bd6d3c75c99f4567970e05862407483e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675686891086
+status: 3
+tags: []
+user_id: aboukhaled001

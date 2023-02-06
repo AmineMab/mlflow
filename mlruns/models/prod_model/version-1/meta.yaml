@@ -1,0 +1,12 @@
+creation_timestamp: 1675683606965
+current_stage: None
+description: ''
+last_updated_timestamp: 1675683606965
+name: prod_model
+run_id: 058ced6042384e7e91710084edef39db
+run_link: ''
+source: file:///c:/Users/aboukhaled001/Documents/Projects/mlflow/mlruns/800521941747510207/058ced6042384e7e91710084edef39db/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

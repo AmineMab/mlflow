@@ -1,0 +1,12 @@
+creation_timestamp: 1675686879551
+current_stage: Production
+description: null
+last_updated_timestamp: 1675687006260
+name: iris-classifier
+run_id: e1f7fa5202ee4649a2bdde126d5a0e6d
+run_link: null
+source: file:///c:/Users/aboukhaled001/Documents/Projects/mlflow/mlruns/964644022510987431/e1f7fa5202ee4649a2bdde126d5a0e6d/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
